@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /mailto{sorfanoudakis@tuc.gr}
+    link: sorfanoudakis@tuc.gr
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=flE6u1oAAAAJ
